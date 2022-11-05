@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - slot
+  - Power
+  - Switch
+  - attach
+  - slotRow
+  - Chip
+  - peg
+  - slotOrigin
+  - PegIn
+  - PegOut
+  - Diagram
+  - fullAttach
+  - pin
+  - Switch4
+  - Switch3
+  - Switch2
+  - SwitchTrigger
+  - Switch5
+  - Switch6
+  - Switch7
+  - Switch8
+  - pinIn
+  - pinOut
+  - criteria
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
